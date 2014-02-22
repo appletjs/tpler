@@ -1,0 +1,29 @@
+{
+  "name": "tpler",
+  "version": "0.0.1",
+  "description": "Embedded Javascript Template",
+  "main": "tpler.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/japplet/tpler.git"
+  },
+  "keywords": [
+    "template",
+    "engine",
+    "tpler",
+    "tpl"
+  ],
+  "author": "MaoFeng Zhang <japplet@163.com>",
+  "license": "MIT",
+	"readmeFilename": "readme.md",
+  "bugs": {
+    "url": "https://github.com/japplet/tpler/issues"
+  },
+  "homepage": "https://github.com/japplet/tpler"
+}
